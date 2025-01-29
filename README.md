@@ -1,0 +1,3 @@
+# React Native FlatList Bug: Performance and Rendering Issues
+
+This repository demonstrates a common performance and rendering issue in React Native's FlatList component when dealing with large datasets and frequent data updates.  The bug arises from the absence of unique keys or the use of inappropriate keys for list items.  The solution showcases how to fix this by providing a unique key for each item.
